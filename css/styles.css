@@ -60,14 +60,14 @@ p {line-height: 2;}
 
 .cloud1 {
   position: absolute;
-  right: 450px;
-  top: 50px;
+  right: 28rem;
+  top: 3rem;
 }
 
 .cloud2 {
   position: absolute;
-  left: 420px;
-  bottom: 420px;
+  left: 26rem;
+  bottom: 25.4rem;
 }
 
 .mountain {
